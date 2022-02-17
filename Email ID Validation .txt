@@ -1,0 +1,34 @@
+The Email ID Valuation program confirms the existence of an email address in the database. The user is asked to enter his or her email ID, and if the email ID is already stored, the entire email list is displayed to the user. 
+
+If the input is not in the ArrayList the user will be shown “Not found E-Mail Database“. 
+
+Execute the Programm — 
+
+
+
+The console is opening -
+-The program wants you 
+to enter with your Email ID
+Enter your E-mail Adress 
+
+
+
+
+
+-you are validated 
+now you can see the  rest of the Email-List
+
+
+
+
+
+
+———————————————————————————————————————————
+
+otherwise, if the input  is not in the ArrayList,  the output will be :
+    “Not found Email 
+      Database“
+
+
+
+———————————————————————————————————————————
